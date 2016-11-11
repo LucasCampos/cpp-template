@@ -1,0 +1,4 @@
+autocmd VimEnter * TlistAddFiles inc/*.hpp
+autocmd VimEnter * TlistAddFiles inc/*.h
+autocmd VimEnter * TlistAddFiles src/*.c
+autocmd VimEnter * TlistAddFiles src/*.cpp
